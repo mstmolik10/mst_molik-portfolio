@@ -85,7 +85,7 @@ export const expCards = [
         responsibility: [
             "Create and curate algorithmic problems on Polygon , also creating Editorial for contests",
             "Organised Dementia with 700+ people participating",
-            "Organised Freshers Coding Contest wiht 200+ first yearities of IIT Mandi Participating",
+            "Organised Freshers Coding Contest 2025 with 200+ students of batch 2028 of IIT Mandi Participating",
         ],
     }
 ]
