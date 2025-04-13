@@ -84,7 +84,7 @@ export const expCards = [
         date: "January 2025 - present",
         responsibility: [
             "Create and curate algorithmic problems on Polygon , also creating Editorial for contests",
-            "Organised Dementia with 700+ people participating",
+            "Organised Dementia'25 (Annual Competitive Prgramming event of IIT Mandi) with 700+ people participating from various IITs , IIITs and NITs",
             "Organised Freshers Coding Contest 2025 with 200+ students of batch 2028 of IIT Mandi Participating",
         ],
     }
