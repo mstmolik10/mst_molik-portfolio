@@ -10,10 +10,9 @@ export const words = [
 ]
 
 export const counterItems = [
-    {value: 10 , suffix: "+" , label: "Years of Experience"},
+    {value: 2 , suffix: "+" , label: "Years of Experience"},
     {value: 1200 , suffix: "+" , label: "Problems"},
     {value: 150 , suffix: "+" , label: "Contests"},
-    {value: 150 , suffix: "+" , label: "Contests"}
 ]
 
 export const navLinks = [
